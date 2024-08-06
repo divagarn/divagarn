@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Divagar N</h1>
-<h3 align="center">A passionate website developer, python programmer ⟾ from India</h3>
+<h3 align="center">A passionate developer, python programmer and robotics engineer ⟾ from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divagarn&label=Profile%20views&color=0e75b6&style=flat" alt="divagarn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divagarn" alt="divagarn" /></a> </p>
 
-- 🔭 I’m currently working on **Steganography**
+- 🔭 I’m currently working on **Robotics**
 
-- 🌱 I’m currently learning **R programming, Swift programming and GO**
+- 🌱 I’m currently learning **R programming and GO**
 
 - 👨‍💻 All of my projects are available at [https://github.com/divagarn](https://github.com/divagarn)
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **n.divagar@mobiveil.co.in**
+- 📫 How to reach me **n.divagar@haystackrobotics.com**
 
 - ⚡ Fun fact **I think I am cool**
 
