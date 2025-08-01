@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **n.divagar@haystackrobotics.com**
+- 📫 How to reach me **n.divagar@mobiveil.co.in**
 
 - ⚡ Fun fact **I think I am cool**
 
