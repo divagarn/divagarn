@@ -19,7 +19,7 @@
 
 ---
 
-## 🧭 About Me
+## About Me
 
 ```text
 > whoami
@@ -40,19 +40,19 @@ ADAS computer vision: model training → quantization → edge deployment
 
 ---
 
-## ⚙️ What I Work On
+## What I Work On
 
 | Domain | Details |
 |---|---|
-| 🚗 **ADAS Perception** | Object detection (YOLOX, YOLOv8, MobileViT+YOLO hybrids) on driving datasets |
-| 📉 **Model Optimization** | QAT / PTQ quantization, ONNX export & graph surgery, accuracy-vs-latency tuning |
-| 🔌 **Edge Deployment** | Embedded C pipelines on TI J784S4 / TDA4VH using TIDL, TIOVX, Vision Apps |
-| 📡 **Sensor Fusion** | Radar–camera extrinsic calibration, reflector pose estimation |
-| 🤖 **Autonomy** | ROS2 stack, Ackermann steering, pure-pursuit control, SLAM & navigation |
+| **ADAS Perception** | Object detection (YOLOX, YOLOv8, MobileViT+YOLO hybrids) on driving datasets |
+| **Model Optimization** | QAT / PTQ quantization, ONNX export & graph surgery, accuracy-vs-latency tuning |
+| **Edge Deployment** | Embedded C pipelines on TI J784S4 / TDA4VH using TIDL, TIOVX, Vision Apps |
+| **Sensor Fusion** | Radar–camera extrinsic calibration, reflector pose estimation |
+| **Autonomy** | ROS2 stack, Ackermann steering, pure-pursuit control, SLAM & navigation |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -97,28 +97,28 @@ ADAS computer vision: model training → quantization → edge deployment
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🚗 ADAS & Edge AI
+### ADAS & Edge AI
 - **18-Class YOLOX on TDA4VH** — Custom detector for Indian driving scenes, quantized and deployed to J784S4 with TIDL
 - **Hybrid CNN-ViT Detector** — MobileViT + YOLOX architecture exploring accuracy/latency trade-offs for ADAS
 - **Radar–Camera Calibration** — Extrinsic calibration pipeline with reflector pose estimation, deployed via TIDL
 - **Autonomous Vehicle Stack (ROS2)** — Real-car hardware, Ackermann steering, pure-pursuit control and sensor fusion
 
-### 🧰 Developer Tools
+### Developer Tools
 - **Fetched Diff (VS Code Extension)** — Inline git diff against the latest fetched upstream commit
 
-### 🔬 Research & Earlier Work
-- 🫀 **Remote Pulse & ECG Monitoring** — [Published @ ECS 2022](https://doi.org/10.1149/10701.1309ecst)
-- 🤫 **Lip Reading System** — Silent command recognition using vision + NLP
-- 🗺️ **Vacant Lot Segmentation** — Deep segmentation on aerial RGB imagery
-- 🚛 **Military Vehicle Classifier** — CNN for fine-grained image classification
-- 🧭 **Coverage Planner** — Goal prediction with RNN using LiDAR + map data
-- 🛰️ **Visual SLAM** — RTAB-Map + move_base integration for an AMR
+### Research & Earlier Work
+-  **Remote Pulse & ECG Monitoring** — [Published @ ECS 2022](https://doi.org/10.1149/10701.1309ecst)
+-  **Lip Reading System** — Silent command recognition using vision + NLP
+-  **Vacant Lot Segmentation** — Deep segmentation on aerial RGB imagery
+-  **Military Vehicle Classifier** — CNN for fine-grained image classification
+-  **Coverage Planner** — Goal prediction with RNN using LiDAR + map data
+-  **Visual SLAM** — RTAB-Map + move_base integration for an AMR
 
 ---
 
-## 🔭 Pipeline I Work Across
+##  Pipeline I Work Across
 
 ```text
  Dataset ──▶ Training ──▶ QAT / PTQ ──▶ ONNX Export & Surgery ──▶ TIDL Import
@@ -130,7 +130,7 @@ ADAS computer vision: model training → quantization → edge deployment
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=divagarn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -143,7 +143,7 @@ ADAS computer vision: model training → quantization → edge deployment
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm open to discussions on **ADAS perception, edge deployment, quantization, and robotics**.
 
